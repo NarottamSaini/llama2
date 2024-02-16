@@ -1,0 +1,10 @@
+sentence-transformers
+uvicorn
+ctransformers
+langchain
+python-box
+streamlit
+langchain-community
+
+
+# `pip install -U langchain-community`

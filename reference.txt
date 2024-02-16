@@ -1,0 +1,10 @@
+## conda create -p venv python==3.9
+## conda activate E:\Learning\Llama2_updated\venv
+## pip install -r requirement.txt
+## KN
+## command for runing the file
+# streamlit run llama2.py i.e streamlit run yourscript.py
+
+## pip install -U langchain-community
+
+## LLM Project Using LLAMA 2- Open Source LLM Model From Meta
