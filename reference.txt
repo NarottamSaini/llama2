@@ -8,3 +8,4 @@
 ## pip install -U langchain-community
 
 ## LLM Project Using LLAMA 2- Open Source LLM Model From Meta
+## Model download path: https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML
