@@ -9,3 +9,24 @@
 
 ## LLM Project Using LLAMA 2- Open Source LLM Model From Meta
 ## Model download path: https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML
+
+
+
+## RLHF: Reinforcement learning with Human Feedback
+# GGML model
+'''
+GGML format model files for MetaLLAMA2's LLAMA 2 7B Chat
+What is the Ggml model?
+GGML is a C library for machine learning that allows for CPU inferencing. It defines a binary format for distributing large language models (LLMs). 
+To do that it uses quantization, a technique that allows LLMs to run on consumer hardware with effective CPU inferencing.
+What is the meaning of GGML?
+GGML files consists of binary-encoded data that is laid out according to a specified format. 
+The format specifies what kind of data is present in the file, how it is represented, and the order in which it appears.
+conda create -n venv python==3.9 --y
+conda create -p venv python==3.9 --y
+
+ctransformers:  Python bindings for the Transformer models implemented in C/C++ using GGML library.
+how to use langchain to interact with ctransformers module 
+
+cmd: streamlit run app.py
+'''
